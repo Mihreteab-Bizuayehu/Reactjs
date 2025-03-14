@@ -1,7 +1,7 @@
 
 const CaseTen = () => {
   return (
-    <div>CaseTen</div>
+    <div className="flex flex-col items-center justify-center h-[100vh]">CaseTen</div>
   )
 }
 
